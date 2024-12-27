@@ -9,11 +9,11 @@ py imagetobase64.py your-picture.jpg
 The file format of the image generated is JPEG.
 
 ```
-py base64toimage.py ndpb64.txt
+py base64toimage.py your-base64-file.txt
 ```
 
 ### To specify the file format
-Just add the file extension as part of the script arguments as in the example below
+Simply include the file extension as part of the script arguments, as demonstrated in the example below.
 
 ```
 py base64toimage.py ndpb64.txt png
