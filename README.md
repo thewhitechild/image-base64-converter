@@ -16,5 +16,5 @@ py base64toimage.py your-base64-file.txt
 Simply include the file extension as part of the script arguments, as demonstrated in the example below.
 
 ```
-py base64toimage.py ndpb64.txt png
+py base64toimage.py your-base64-file.txt png
 ```
